@@ -1,16 +1,41 @@
-## Hi there 👋
+<div style="width: 20%; margin: auto;">
+    <img src="https://methois.dev/img/foto.png" alt="Mathijs Berkelaar" style="width: 100%;">
+</div>
+## Mathijs Berkelaar
 
-<!--
-**Methois/Methois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I am an enthusiastic and eager software developer with a passion for creating user-friendly and efficient web applications. With a background in various programming languages and web technologies, I am always seeking new challenges and opportunities to improve my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Web Development**:
+  - HTML
+  - CSS
+  - JavaScript
+  - Node.js
+  - Python
+
+- **Software Skills**:
+  - GitHub
+  - Visual Studio Code
+  - PyCharm
+  - Packet Tracer
+  - VMware
+
+---
+
+### GitHub Stats
+
+![Mathijs' GitHub Stats](https://github-readme-stats.vercel.app/api?username=methois&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+### Contact
+
+- 📧 Email: [info@methois.dev](mailto:info@methois.dev)
+
+---
+
+Thank you for visiting my profile! Feel free to reach out to me for questions or collaboration opportunities.
+
