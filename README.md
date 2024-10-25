@@ -1,6 +1,7 @@
 <div style="width: 20%; margin: auto;">
     <img src="https://methois.dev/img/foto.png" alt="Mathijs Berkelaar" style="width: 100%;">
 </div>
+
 ## Mathijs Berkelaar
 
 Welcome to my profile! I am an enthusiastic and eager software developer with a passion for creating user-friendly and efficient web applications. With a background in various programming languages and web technologies, I am always seeking new challenges and opportunities to improve my skills.
