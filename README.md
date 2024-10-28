@@ -1,5 +1,5 @@
 <div style="width: 20%; margin: auto;">
-    <img src="https://methois.dev/img/file.png" alt="Mathijs Berkelaar" style="width: 100%;">
+    <img src="https://github.methois.dev/IMG/foto.png" alt="Mathijs Berkelaar" style="width: 100%;">
 </div>
 
 ## Mathijs Berkelaar
