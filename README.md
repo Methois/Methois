@@ -24,6 +24,11 @@ Welcome to my profile! I am an enthusiastic and eager software developer with a 
   - Packet Tracer
   - VMware
 
+- **Networking & Systems**:
+  - Switch & Server Configuration
+  - Windows OS
+  - Ubuntu OS
+
 ---
 
 ### GitHub Stats
@@ -35,8 +40,8 @@ Welcome to my profile! I am an enthusiastic and eager software developer with a 
 ### Contact
 
 - 📧 Email: [info@methois.dev](mailto:info@methois.dev)
+- 🔗 LinkedIn: [Mathijs Berkelaar](https://www.linkedin.com/in/mathijsberkelaar/)
 
 ---
 
 Thank you for visiting my profile! Feel free to reach out to me for questions or collaboration opportunities.
-
