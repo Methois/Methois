@@ -16,6 +16,8 @@ Welcome to my profile! I am an enthusiastic and eager software developer with a 
   - JavaScript
   - Node.js
   - Python
+  - PHP
+  - SQL
 
 - **Software Skills**:
   - GitHub
